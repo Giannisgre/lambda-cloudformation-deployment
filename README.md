@@ -4,7 +4,7 @@ Lambda function for CloudFormation stack deployment from an S3 bucket.
 
 You need to provide the URL for the template located in an S3 bucket, the desired stack name and to modify the explicit stack capabilities declaration.
 
-**Important** You must make sure that your lambda function has the required permissions for the resources and actions of the CloudFormation template.
+**Important:** You must make sure that your lambda function has the required permissions for the resources and actions of the CloudFormation template.
 
 ## Capabilities
 
